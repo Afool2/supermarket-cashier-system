@@ -1,0 +1,6 @@
+C:\Users\Administrator.PC-201707021624\Desktop\c# project\my_first_solution\first_project\bin\Debug\first_project.exe.config
+C:\Users\Administrator.PC-201707021624\Desktop\c# project\my_first_solution\first_project\obj\Debug\first_project.csprojResolveAssemblyReference.cache
+C:\Users\Administrator.PC-201707021624\Desktop\c# project\my_first_solution\first_project\bin\Debug\first_project.exe
+C:\Users\Administrator.PC-201707021624\Desktop\c# project\my_first_solution\first_project\bin\Debug\first_project.pdb
+C:\Users\Administrator.PC-201707021624\Desktop\c# project\my_first_solution\first_project\obj\Debug\first_project.exe
+C:\Users\Administrator.PC-201707021624\Desktop\c# project\my_first_solution\first_project\obj\Debug\first_project.pdb
